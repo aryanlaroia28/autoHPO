@@ -113,23 +113,23 @@ This comprehensive analysis ensures a thorough understanding of the effectivenes
 
 ## Results
 - **Bayesian Optimization**:
-<img width="1280" alt="Screenshot 2024-06-13 at 8 43 55 AM" src="https://github.com/aryanlaroia28/auto-HPO/assets/166947111/848743a5-b889-441c-ac24-91d71c9d1745">
-<img width="1246" alt="Screenshot 2024-06-13 at 8 44 44 AM" src="https://github.com/aryanlaroia28/auto-HPO/assets/166947111/343a6f34-fa83-4ea2-9b95-6eaa9050eb54">
-<img width="846" alt="Screenshot 2024-06-13 at AM" src="https://github.com/aryanlaroia28/auto-HPO/assets/166947111/63140cec-29af-442a-af7c-ed401904fbd7">
-<img width="846" alt="Screenshot 2024-06-13 at AM" src="https://github.com/aryanlaroia28/auto-HPO/assets/166947111/90b6b964-cefd-43fe-bcdd-e288a98051f0">
+<img width="1280" alt="Screenshot 2024-06-13 at 8 43 55 AM" src="https://github.com/aryanlaroia28/autoHPO/assets/166947111/848743a5-b889-441c-ac24-91d71c9d1745">
+<img width="1246" alt="Screenshot 2024-06-13 at 8 44 44 AM" src="https://github.com/aryanlaroia28/auto-PO/assets/166947111/343a6f34-fa83-4ea2-9b95-6eaa9050eb54">
+<img width="846" alt="Screenshot 2024-06-13 at AM" src="https://github.com/aryanlaroia28/autoHPO/assets/166947111/63140cec-29af-442a-af7c-ed401904fbd7">
+<img width="846" alt="Screenshot 2024-06-13 at AM" src="https://github.com/aryanlaroia28/autoHPO/assets/166947111/90b6b964-cefd-43fe-bcdd-e288a98051f0">
 
 - **TPE Optimization**:
-<img width="1284" alt="Screenshot 2024-06-13 at 8 47 15 AM" src="https://github.com/aryanlaroia28/auto-HPO/assets/166947111/c12a4c09-fb76-40c7-82a1-23ac673802a8">
-<img width="1283" alt="Screenshot 2024-06-13 at 8 47 40 AM" src="https://github.com/aryanlaroia28/auto-HPO/assets/166947111/dde0447b-d951-4352-bcce-9c4232eb0496">
-<img width="846" alt="Screenshot 2024-06-13 at 8 44 44 AM" src="https://github.com/aryanlaroia28/auto-HPO/assets/166947111/e9878c53-d3b3-4c7d-a4e9-5b180c60c74a">
-<img width="846" alt="Screenshot 2024-06-13 at 8 44 44 AM" src="https://github.com/aryanlaroia28/auto-HPO/assets/166947111/f6f36c47-874f-4f45-8fcc-b7a258e0ba01">
+<img width="1284" alt="Screenshot 2024-06-13 at 8 47 15 AM" src="https://github.com/aryanlaroia28/autoHPO/assets/166947111/c12a4c09-fb76-40c7-82a1-23ac673802a8">
+<img width="1283" alt="Screenshot 2024-06-13 at 8 47 40 AM" src="https://github.com/aryanlaroia28/autoHPO/assets/166947111/dde0447b-d951-4352-bcce-9c4232eb0496">
+<img width="846" alt="Screenshot 2024-06-13 at 8 44 44 AM" src="https://github.com/aryanlaroia28/autoHPO/assets/166947111/e9878c53-d3b3-4c7d-a4e9-5b180c60c74a">
+<img width="846" alt="Screenshot 2024-06-13 at 8 44 44 AM" src="https://github.com/aryanlaroia28/auto-PO/assets/166947111/f6f36c47-874f-4f45-8fcc-b7a258e0ba01">
 
 
 - **PSO Optimization**:
-<img width="1294" alt="Screenshot 2024-06-13 at 8 48 47 AM" src="https://github.com/aryanlaroia28/auto-HPO/assets/166947111/ef7de1ff-c098-48b4-aa59-ea19b8e782c9">
-<img width="1276" alt="Screenshot 2024-06-13 at 8 49 13 AM" src="https://github.com/aryanlaroia28/auto-HPO/assets/166947111/8678e1be-16c1-407b-b9f5-7e6640f39ce8">
-<img width="846" alt="Screenshot 2024-06-13 at 8 44 44 AM" src="https://github.com/aryanlaroia28/auto-HPO/assets/166947111/5606acf6-2f16-4218-b995-d6b51c0009ee">
-<img width="846" alt="Screenshot 2024-06-13 at 8 44 44 AM" src="https://github.com/aryanlaroia28/auto-HPO/assets/166947111/7475ff2a-3846-41a2-8a9f-bd5bbae8a5ec">
+<img width="1294" alt="Screenshot 2024-06-13 at 8 48 47 AM" src="https://github.com/aryanlaroia28/autoHPO/assets/166947111/ef7de1ff-c098-48b4-aa59-ea19b8e782c9">
+<img width="1276" alt="Screenshot 2024-06-13 at 8 49 13 AM" src="https://github.com/aryanlaroia28/autoHPO/assets/166947111/8678e1be-16c1-407b-b9f5-7e6640f39ce8">
+<img width="846" alt="Screenshot 2024-06-13 at 8 44 44 AM" src="https://github.com/aryanlaroia28/autoHPO/assets/166947111/5606acf6-2f16-4218-b995-d6b51c0009ee">
+<img width="846" alt="Screenshot 2024-06-13 at 8 44 44 AM" src="https://github.com/aryanlaroia28/autoHPO/assets/166947111/7475ff2a-3846-41a2-8a9f-bd5bbae8a5ec">
 
 ## Conclusion:
 Hence we can observe that our optimization algorithms provide competitive results with standard libraries like HyperOpt.
