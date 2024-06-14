@@ -41,7 +41,7 @@ To run the notebooks and reproduce the results, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aryanlaroia28/auto-HPO.git
+   git clone https://github.com/aryanlaroia28/autoHPO.git
    cd auto-HPO
    ```
 
